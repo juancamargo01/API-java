@@ -1,4 +1,4 @@
-# API-Digital-inovation
+# API em Java
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
