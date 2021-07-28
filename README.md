@@ -1,5 +1,8 @@
 # API em Java
 
+
+Uma API REST para o gerenciamento de estoques de cerveja. com testes unitários para validar o sistema de gerenciamento de estoques de cerveja desenvolvido em Spring Boot,  testes unitários com JUnit e Mockito como  funcionalidades da prática do TDD.
+
 Para executar o projeto no terminal, digite o seguinte comando:
 
 mvn spring-boot:run 
